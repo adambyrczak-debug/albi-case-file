@@ -235,12 +235,12 @@
       {
         "image": "/images/marketing/marketing-01.jpg",
         "placeholder": "[INSERT SOCIAL MEDIA / VIDEO CAMPAIGN PHOTO 01]",
-        "caption": "[INSERT CAPTION FOR MARKETING EXAMPLE 01]"
+        "caption": ""
       },
       {
         "image": "/images/marketing/marketing-02.jpg",
         "placeholder": "[INSERT SOCIAL MEDIA / VIDEO CAMPAIGN PHOTO 02]",
-        "caption": "[INSERT CAPTION FOR MARKETING EXAMPLE 02]"
+        "caption": ""
       }
     ]
   },
