@@ -413,10 +413,10 @@
     "websiteUrl": "https://albipolska.pl",
     "closingMessage": "We would welcome a discussion on Polish-language publishing rights and a joint launch plan.",
     "contact": {
-      "person": "[INSERT CONTACT NAME & ROLE]",
-      "email": "[INSERT CONTACT EMAIL]",
-      "phone": "[INSERT CONTACT PHONE]",
-      "location": "Poland"
+      "person": "Kamila Biedrońska Product Manager",
+      "email": "kamila.biedronska@albipolska.pl",
+      "phone": "+48 663 888 314",
+      "location": "Kraków, Poland"
     }
   }
 }
