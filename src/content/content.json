@@ -254,21 +254,21 @@
       {
         "step": "01 / OPEN",
         "title": "Classified Case Mailer",
-        "description": "[INSERT DESCRIPTION OF PR PACKAGE UNBOXING CONCEPT — e.g. physical dossier folder, case stamp, numbered clues]",
+        "description": "Custom PR packages inspired by individual board games, featuring themed contents and creative presentation designed to make each unboxing memorable.",
         "image": "/images/pr-packages/pr-package-01.jpg",
         "placeholder": "[INSERT PR PACKAGE PHOTO / MOCKUP 01]"
       },
       {
         "step": "02 / SOLVE",
         "title": "Interactive Teaser Mystery",
-        "description": "[INSERT DESCRIPTION OF MINI-INVESTIGATION INCLUDED FOR CREATORS & PRESS]",
+        "description": "Each package introduces creators to the game's unique atmosphere, with distinct concepts developed for Witchdom and Popcorn.",
         "image": "/images/pr-packages/pr-package-02.jpg",
         "placeholder": "[INSERT PR PACKAGE PHOTO / MOCKUP 02]"
       },
       {
         "step": "03 / SHARE",
         "title": "Creator Storyline & Reveal",
-        "description": "[INSERT DESCRIPTION OF HOW CREATORS SHARE CLUES WITH THEIR AUDIENCE]",
+        "description": "Influencers share unboxing videos, reveal the package contents and introduce the games to their audiences through engaging social media content.",
         "image": "/images/pr-packages/pr-package-03.jpg",
         "placeholder": "[INSERT PR PACKAGE PHOTO / MOCKUP 03]"
       }
