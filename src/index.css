@@ -1,0 +1,137 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #0C0C0C;
+    color: #E8E0D0;
+    font-family: 'Inter', system-ui, sans-serif;
+    overflow-x: hidden;
+  }
+}
+
+/* Film Grain + Vignette */
+.film-grain {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 40;
+  opacity: 0.055;
+  background-image: radial-gradient(#E8E0D0 0.7px, transparent 0.7px);
+  background-size: 3px 3px;
+}
+
+.noir-vignette {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 35;
+  background: radial-gradient(circle at center, transparent 52%, rgba(0, 0, 0, 0.72) 100%);
+}
+
+/* Dramatic Venetian Blind Shadows */
+.venetian-shadow {
+  background: repeating-linear-gradient(
+    -20deg,
+    rgba(0, 0, 0, 0.72) 0px,
+    rgba(0, 0, 0, 0.72) 26px,
+    rgba(232, 224, 208, 0.025) 26px,
+    rgba(232, 224, 208, 0.025) 58px
+  );
+}
+
+/* Warm Desk Lamp Spotlight */
+.desk-spotlight {
+  background: radial-gradient(
+    ellipse 65% 55% at 28% 22%,
+    rgba(218, 185, 130, 0.11) 0%,
+    rgba(143, 41, 41, 0.06) 42%,
+    transparent 75%
+  );
+}
+
+/* Aged Manila / Archival Dossier Paper */
+.dossier-paper {
+  background-color: #E6DEC8;
+  color: #161412;
+  background-image:
+    radial-gradient(rgba(30, 20, 10, 0.06) 1px, transparent 0),
+    linear-gradient(180deg, rgba(160, 140, 110, 0.18) 0%, transparent 12%, transparent 88%, rgba(120, 100, 75, 0.22) 100%);
+  background-size: 14px 14px, 100% 100%;
+}
+
+/* Dark Evidence Board Grid */
+.evidence-board-bg {
+  background-color: #131110;
+  background-image:
+    radial-gradient(rgba(185, 173, 153, 0.08) 1px, transparent 1px),
+    linear-gradient(to right, rgba(185, 173, 153, 0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(185, 173, 153, 0.03) 1px, transparent 1px);
+  background-size: 24px 24px, 72px 72px, 72px 72px;
+}
+
+/* Distressed Rubber Stamp */
+.stamp-red {
+  border: 2.5px solid #9E2A2B;
+  color: #9E2A2B;
+  font-family: 'Special Elite', 'Courier Prime', monospace;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  padding: 0.3rem 0.85rem;
+  display: inline-block;
+  transform: rotate(-3.5deg);
+  box-shadow: inset 0 0 0 1px rgba(158, 42, 43, 0.35);
+  background: rgba(158, 42, 43, 0.06);
+}
+
+/* Masking Tape Strip for Evidence Photos */
+.masking-tape {
+  position: absolute;
+  top: -10px;
+  left: 50%;
+  transform: translateX(-50%) rotate(-2deg);
+  width: 78px;
+  height: 22px;
+  background: rgba(226, 212, 180, 0.72);
+  border-left: 1px dashed rgba(0, 0, 0, 0.15);
+  border-right: 1px dashed rgba(0, 0, 0, 0.15);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.35);
+  z-index: 10;
+  pointer-events: none;
+}
+
+/* Red Pushpin */
+.pushpin-red {
+  width: 14px;
+  height: 14px;
+  border-radius: 9999px;
+  background: radial-gradient(circle at 35% 35%, #e05a5a 0%, #8F2929 55%, #420f0f 100%);
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.75);
+}
+
+/* Polaroid / Evidence Card Lift */
+.evidence-card {
+  transition: transform 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.35s ease, border-color 0.35s ease;
+}
+.evidence-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.75);
+}
+
+/* Print / Export Case Summary PDF styles */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #FFFFFF !important;
+    color: #111111 !important;
+  }
+  section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    border-bottom: 1px solid #cccccc;
+    padding: 1.5rem 0 !important;
+  }
+}

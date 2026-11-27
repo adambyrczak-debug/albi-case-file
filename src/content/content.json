@@ -1,0 +1,422 @@
+{
+  "meta": {
+    "siteTitle": "THE NEXT CASE: ALBI POLSKA",
+    "caseNumber": "CASE FILE #001",
+    "caseSubtitle": "THE POLISH MARKET INVESTIGATION",
+    "classification": "CONFIDENTIAL",
+    "partnerTag": "ALBI POLSKA / MICROMACRO",
+    "documentType": "A PROPOSAL FOR POLISH-LANGUAGE PUBLISHING RIGHTS"
+  },
+  "intro": {
+    "enabled": true,
+    "stamp": "CLASSIFIED",
+    "caseLabel": "CASE FILE #001",
+    "title": "THE NEXT CASE: ALBI POLSKA",
+    "subtitle": "CONFIDENTIAL LICENSING DOSSIER — POLISH MARKET INVESTIGATION",
+    "openButtonLabel": "OPEN CASE FILE",
+    "skipButtonLabel": "SKIP INTRO"
+  },
+  "controls": {
+    "audioOnLabel": "NOIR AUDIO: ON",
+    "audioOffLabel": "NOIR AUDIO: OFF",
+    "downloadSummaryLabel": "EXPORT CASE SUMMARY (PDF)",
+    "backToTopLabel": "RETURN TO TOP OF FILE",
+    "progressLabel": "INVESTIGATION PROGRESS"
+  },
+  "navigation": [
+    {
+      "id": "hero",
+      "code": "00",
+      "label": "Case File"
+    },
+    {
+      "id": "who-we-are",
+      "code": "01",
+      "label": "Who We Are"
+    },
+    {
+      "id": "detectives",
+      "code": "02",
+      "label": "The Detectives"
+    },
+    {
+      "id": "distribution",
+      "code": "03",
+      "label": "Distribution"
+    },
+    {
+      "id": "marketing",
+      "code": "04",
+      "label": "Marketing"
+    },
+    {
+      "id": "creative-execution",
+      "code": "05",
+      "label": "PR Execution"
+    },
+    {
+      "id": "we-play",
+      "code": "06",
+      "label": "We Play MicroMacro"
+    },
+    {
+      "id": "community-events",
+      "code": "07",
+      "label": "Community & Events"
+    },
+    {
+      "id": "brand-ideas",
+      "code": "08",
+      "label": "4 Brand Ideas"
+    },
+    {
+      "id": "partnership",
+      "code": "09",
+      "label": "The Partnership"
+    },
+    {
+      "id": "case-continues",
+      "code": "10",
+      "label": "Next Chapter"
+    }
+  ],
+  "hero": {
+    "eyebrow": "A PROPOSAL FOR POLISH-LANGUAGE PUBLISHING RIGHTS",
+    "franchiseLabel": "MICROMACRO",
+    "title": "THE NEXT CASE: ALBI POLSKA",
+    "subtitle": "CASE FILE #001 — THE POLISH MARKET INVESTIGATION",
+    "description": "A partner with established routes to market, live player engagement and a clear launch vision.",
+    "pillars": [
+      "PUBLISHING",
+      "DISTRIBUTION",
+      "COMMUNITY",
+      "CREATIVE ACTIVATION"
+    ],
+    "ctaLabel": "BEGIN INVESTIGATION",
+    "backgroundImage": "/images/backgrounds/hero-noir-desk.jpg",
+    "backgroundPlaceholder": "[INSERT OPTIONAL HERO BACKGROUND PHOTO — DARK DESK / CITY MAP]"
+  },
+  "whoWeAre": {
+    "sectionTag": "CASE FILE / WHO WE ARE",
+    "evidenceNumber": "EVIDENCE 01",
+    "heading": "Who is Albi Polska?",
+    "description": "Albi Polska is part of the international ALBI group, offering a diverse range of board games, educational products and creative entertainment for the Polish market.",
+    "companyImage": "/images/company/albi-polska-overview.jpg",
+    "companyImagePlaceholder": "[INSERT ALBI POLSKA COMPANY OR PORTFOLIO PHOTO]",
+    "companyImageCaption": "Albi Polska — Polish market operations & board game portfolio.",
+    "pillars": [
+      {
+        "number": "01",
+        "title": "Relevant game portfolio",
+        "description": "Our portfolio includes family games, strategy games and titles for more experienced players, such as Karak, Gloomhaven, Frosthaven and Tea Garden.",
+        "image": "/images/products/albi-board-games.jpg",
+        "placeholder": "[INSERT PORTFOLIO GAMES PHOTO: KARAK, GLOOMHAVEN, FROSTHAVEN, TEA GARDEN]"
+      },
+      {
+        "number": "02",
+        "title": "Routes to market",
+        "description": "We distribute our products through our own e-commerce platform, B2B system and a network of retail partners across Poland.",
+        "image": "/images/company/albi-distribution.jpg",
+        "placeholder": "[INSERT DISTRIBUTION / WAREHOUSE / RETAIL SHELF PHOTO]"
+      },
+      {
+        "number": "03",
+        "title": "Brand Activation & Community Engagement",
+        "description": "We support our products through marketing activities, social media communication, trade fairs and selected events for players.",
+        "image": "/images/events/albi-community-activation.jpg",
+        "placeholder": "[INSERT TRADE FAIR OR PLAYER EVENT PHOTO]"
+      }
+    ],
+    "signatureLinesTitle": "KEY ALBI PRODUCT ECOSYSTEMS",
+    "signatureLines": [
+      {
+        "name": "CZYTAJ Z ALBIKIEM",
+        "description": "Interactive books and games powered by the Albik talking pen, with audio, songs and quizzes.",
+        "image": "/images/products/czytaj-z-albikiem.jpg",
+        "placeholder": "[INSERT CZYTAJ Z ALBIKIEM PRODUCT PHOTO]"
+      },
+      {
+        "name": "OKIDOKI",
+        "description": "Educational toys and games that develop creativity, logic and early learning skills through play.",
+        "image": "/images/products/okidoki.jpg",
+        "placeholder": "[INSERT OKIDOKI PRODUCT PHOTO]"
+      }
+    ]
+  },
+  "detectives": {
+    "sectionTag": "CASE FILE / THE DETECTIVES",
+    "evidenceNumber": "EVIDENCE 02",
+    "heading": "The people behind the case",
+    "subtitle": "PERSONNEL DOSSIERS — ASSIGNED INVESTIGATION TEAM",
+    "members": [
+      {
+        "id": "detective-01",
+        "fileCode": "PERSONNEL FILE #A-01",
+        "name": "Kama",
+        "position": "Product Manager",
+        "description": "Solves product mysteries. Creates new ones.",
+        "image": "/images/team/kama.jpg",
+        "placeholder": "[INSERT TEAM PORTRAIT: KAMA]"
+      },
+      {
+        "id": "detective-02",
+        "fileCode": "PERSONNEL FILE #A-02",
+        "name": "Adam",
+        "position": "Social Media & Video Specialist",
+        "description": "His camera catches everything. Even the suspects.",
+        "image": "/images/team/adam.jpg",
+        "placeholder": "[INSERT TEAM PORTRAIT: ADAM]"
+      },
+      {
+        "id": "detective-03",
+        "fileCode": "PERSONNEL FILE #A-03",
+        "name": "Paulinka",
+        "position": "Events & Marketing Specialist",
+        "description": "Can organize anything. Even a crime scene.",
+        "image": "/images/team/paulinka.jpg",
+        "placeholder": "[INSERT TEAM PORTRAIT: PAULINKA]"
+      }
+    ]
+  },
+  "distribution": {
+    "sectionTag": "CASE FILE / DISTRIBUTION CHANNELS",
+    "evidenceNumber": "EVIDENCE 03",
+    "heading": "An established route to Polish players",
+    "description": "Three complementary routes to market, ready to be tailored to a MicroMacro relaunch.",
+    "channels": [
+      {
+        "badge": "RETAIL",
+        "title": "RETAIL & SPECIALIST",
+        "description": "Cooperation with retail partners, including bookstores, toy stores and specialist board game shops.",
+        "image": "/images/company/channel-retail.jpg",
+        "placeholder": "[INSERT RETAIL PARTNER / BOOKSTORE PHOTO]"
+      },
+      {
+        "badge": "B2B",
+        "title": "B2B PLATFORM",
+        "description": "An online ordering platform for business customers, providing access to our product portfolio.",
+        "image": "/images/company/channel-b2b.jpg",
+        "placeholder": "[INSERT B2B PLATFORM SCREENSHOT / VISUAL]"
+      },
+      {
+        "badge": "DIRECT",
+        "title": "OWN E-COMMERCE",
+        "description": "Our online store, albipolska.pl, offering products directly to individual customers.",
+        "url": "https://albipolska.pl",
+        "image": "/images/company/channel-ecommerce.jpg",
+        "placeholder": "[INSERT ALBIPOLSKA.PL E-COMMERCE VISUAL]"
+      }
+    ]
+  },
+  "marketing": {
+    "sectionTag": "CASE FILE / MARKETING",
+    "evidenceNumber": "EVIDENCE 03-B",
+    "heading": "Marketing & Communication",
+    "draftNote": "DRAFT PLACEHOLDER — SECTION ASSIGNED TO ADAM (Marketing – Adaś, tutaj dla ciebie do dopisania)",
+    "description": "[INSERT MARKETING STRATEGY OVERVIEW — Explain Albi Polska's social media reach, video production, influencer collaborations, and paid/organic launch support.]",
+    "highlights": [
+      {
+        "label": "SOCIAL MEDIA & VIDEO",
+        "value": "[INSERT STAT OR KEY CAPABILITY]",
+        "detail": "[INSERT DESCRIPTION OF VIDEO & SOCIAL CONTENT FORMATS]"
+      },
+      {
+        "label": "CREATOR & INFLUENCER NETWORK",
+        "value": "[INSERT STAT OR KEY CAPABILITY]",
+        "detail": "[INSERT DESCRIPTION OF BOARD GAME & FAMILY CREATOR COLLABORATIONS]"
+      },
+      {
+        "label": "LAUNCH CAMPAIGNS",
+        "value": "[INSERT STAT OR KEY CAPABILITY]",
+        "detail": "[INSERT EXAMPLE CAMPAIGN OR MEDIA APPROACH]"
+      }
+    ],
+    "gallery": [
+      {
+        "image": "/images/marketing/marketing-01.jpg",
+        "placeholder": "[INSERT SOCIAL MEDIA / VIDEO CAMPAIGN PHOTO 01]",
+        "caption": "[INSERT CAPTION FOR MARKETING EXAMPLE 01]"
+      },
+      {
+        "image": "/images/marketing/marketing-02.jpg",
+        "placeholder": "[INSERT SOCIAL MEDIA / VIDEO CAMPAIGN PHOTO 02]",
+        "caption": "[INSERT CAPTION FOR MARKETING EXAMPLE 02]"
+      }
+    ]
+  },
+  "creativeExecution": {
+    "sectionTag": "CASE FILE / CREATIVE EXECUTION",
+    "evidenceNumber": "EVIDENCE 04",
+    "heading": "We do not just advertise. We start a story.",
+    "description": "Proposed MicroMacro PR formats designed for opening, solving and sharing a case.",
+    "draftNote": "PR PACKAGE VISUALS TO BE ADDED (Draft note: tutaj możemy wygenerować paczkę PR)",
+    "formats": [
+      {
+        "step": "01 / OPEN",
+        "title": "Classified Case Mailer",
+        "description": "[INSERT DESCRIPTION OF PR PACKAGE UNBOXING CONCEPT — e.g. physical dossier folder, case stamp, numbered clues]",
+        "image": "/images/pr-packages/pr-package-01.jpg",
+        "placeholder": "[INSERT PR PACKAGE PHOTO / MOCKUP 01]"
+      },
+      {
+        "step": "02 / SOLVE",
+        "title": "Interactive Teaser Mystery",
+        "description": "[INSERT DESCRIPTION OF MINI-INVESTIGATION INCLUDED FOR CREATORS & PRESS]",
+        "image": "/images/pr-packages/pr-package-02.jpg",
+        "placeholder": "[INSERT PR PACKAGE PHOTO / MOCKUP 02]"
+      },
+      {
+        "step": "03 / SHARE",
+        "title": "Creator Storyline & Reveal",
+        "description": "[INSERT DESCRIPTION OF HOW CREATORS SHARE CLUES WITH THEIR AUDIENCE]",
+        "image": "/images/pr-packages/pr-package-03.jpg",
+        "placeholder": "[INSERT PR PACKAGE PHOTO / MOCKUP 03]"
+      }
+    ]
+  },
+  "wePlayMicroMacro": {
+    "sectionTag": "CASE FILE / WE PLAY MICROMACRO",
+    "evidenceNumber": "EVIDENCE 05",
+    "heading": "We've played MicroMacro. We're hooked.",
+    "description": "We have played MicroMacro ourselves, followed the clues and enjoyed every twist. We know the experience firsthand, and we would love to share it with more players across Poland.",
+    "photoSectionLabel": "OUR MICROMACRO SESSIONS / PHOTO",
+    "tagline": "Real clues. Real reactions. Real enthusiasm.",
+    "subTagline": "Evidence that we are fans, not just distributors.",
+    "photos": [
+      {
+        "image": "/images/company/micromacro-session-01.jpg",
+        "placeholder": "[INSERT ALBI TEAM PLAYING MICROMACRO PHOTO 01]",
+        "caption": "Albi Polska team investigating Crime City firsthand."
+      },
+      {
+        "image": "/images/company/micromacro-session-02.jpg",
+        "placeholder": "[INSERT ALBI TEAM PLAYING MICROMACRO PHOTO 02]",
+        "caption": "Close-up reactions and tabletop clue-hunting."
+      }
+    ]
+  },
+  "communityEvents": {
+    "sectionTag": "CASE FILE / COMMUNITY & EVENTS",
+    "evidenceNumber": "EVIDENCE 06",
+    "heading": "We meet players where they play",
+    "description": "Real-world presence, event experience and an activation model we can transfer to MicroMacro.",
+    "draftNote": "OPTIONAL REVIEW NOTE FOR PAULINKA (Draft note: tutaj może Paulinka chciałaby coś zmienić / dodać)",
+    "pillars": [
+      {
+        "number": "01",
+        "title": "Trade fairs & retail",
+        "description": "Participation in trade fairs, industry events and activities with retail partners.",
+        "image": "/images/events/event-trade-fair.jpg",
+        "placeholder": "[INSERT TRADE FAIR / RETAIL ACTIVATION PHOTO]"
+      },
+      {
+        "number": "02",
+        "title": "Local game communities",
+        "description": "Cooperation with gaming communities and opportunities for demonstrations and player interaction.",
+        "image": "/images/events/event-community.jpg",
+        "placeholder": "[INSERT LOCAL BOARD GAME COMMUNITY DEMO PHOTO]"
+      },
+      {
+        "number": "03",
+        "title": "Game Events & Initiatives",
+        "description": "Experience in supporting and organizing board game events, including tournaments and promotional activities.",
+        "image": "/images/events/event-tournaments.jpg",
+        "placeholder": "[INSERT TOURNAMENT / BOARD GAME EVENT PHOTO]"
+      }
+    ]
+  },
+  "brandIdeas": {
+    "sectionTag": "CASE FILE / IDEAS FOR THE BRAND",
+    "evidenceNumber": "EVIDENCE 06-B",
+    "heading": "Four ideas to investigate in Poland",
+    "description": "Connected campaigns to drive trial, conversation, retail traffic and repeat discovery.",
+    "draftNote": "OPEN FOR TEAM ADDITIONS (Draft note: jak macie inne pomysły to śmiało)",
+    "ideas": [
+      {
+        "number": "01",
+        "code": "LEAD #01",
+        "phase": "LIVE TRIAL",
+        "title": "MicroMacro XXL",
+        "description": "Oversized city map at fairs and stores; a 5-minute guided mystery for visitors.",
+        "objective": "Instant hands-on trial & crowd magnet at events and key retail partners.",
+        "image": "/images/campaigns/idea-micromacro-xxl.jpg",
+        "placeholder": "[INSERT MICROMACRO XXL CONCEPT VISUAL]"
+      },
+      {
+        "number": "02",
+        "code": "LEAD #02",
+        "phase": "BUZZ & PR",
+        "title": "The Detective PR Box",
+        "description": "A case-folder mailer with numbered evidence, teaser clues and a creator brief.",
+        "objective": "Organic storytelling and high-impact unboxing across Polish board game & lifestyle media.",
+        "image": "/images/campaigns/idea-detective-pr-box.jpg",
+        "placeholder": "[INSERT DETECTIVE PR BOX VISUAL]"
+      },
+      {
+        "number": "03",
+        "code": "LEAD #03",
+        "phase": "RETAIL TRAFFIC",
+        "title": "MicroMacro City Hunt",
+        "description": "QR-linked clues at approved partner venues; complete the trail at a retailer.",
+        "objective": "Drive foot traffic directly from urban discovery trails to partner bookstores & game shops.",
+        "image": "/images/campaigns/idea-city-hunt.jpg",
+        "placeholder": "[INSERT CITY HUNT CONCEPT VISUAL]"
+      },
+      {
+        "number": "04",
+        "code": "LEAD #04",
+        "phase": "REPEAT DISCOVERY",
+        "title": "Case of the Week",
+        "description": "Weekly visual clues on social channels, with a reveal and a shop link.",
+        "objective": "Sustained community engagement and direct conversion to albipolska.pl & retail partners.",
+        "image": "/images/campaigns/idea-case-of-the-week.jpg",
+        "placeholder": "[INSERT CASE OF THE WEEK SOCIAL VISUAL]"
+      }
+    ]
+  },
+  "partnership": {
+    "sectionTag": "CASE FILE / THE PARTNERSHIP",
+    "evidenceNumber": "FINAL EVIDENCE",
+    "heading": "Why Albi Polska is a strong local partner",
+    "description": "Albi Polska combines local market knowledge, established distribution channels and experience in publishing and promoting board games.",
+    "reasons": [
+      {
+        "number": "01",
+        "title": "Commercial reach",
+        "description": "Access to the Polish market through our B2B platform, online store and retail partners."
+      },
+      {
+        "number": "02",
+        "title": "Product & Brand Communication",
+        "description": "Experience in preparing Polish-language product materials and communicating games to different audiences."
+      },
+      {
+        "number": "03",
+        "title": "Marketing Activities",
+        "description": "Social media communication, participation in events and promotional activities tailored to individual titles."
+      },
+      {
+        "number": "04",
+        "title": "Cooperation & Planning",
+        "description": "A collaborative approach to planning product launches, marketing activities and ongoing distribution."
+      }
+    ],
+    "closingNote": "We would be happy to explore opportunities for bringing MicroMacro to Polish players together."
+  },
+  "caseContinues": {
+    "sectionTag": "CASE FILE / CASE CONTINUES",
+    "eyebrow": "THE NEXT CASE",
+    "heading": "LET’S BUILD THE POLISH CHAPTER TOGETHER.",
+    "partnerLabel": "YOUR PARTNER IN POLAND",
+    "companyName": "ALBI POLSKA",
+    "website": "albipolska.pl",
+    "websiteUrl": "https://albipolska.pl",
+    "closingMessage": "We would welcome a discussion on Polish-language publishing rights and a joint launch plan.",
+    "contact": {
+      "person": "[INSERT CONTACT NAME & ROLE]",
+      "email": "[INSERT CONTACT EMAIL]",
+      "phone": "[INSERT CONTACT PHONE]",
+      "location": "Poland"
+    }
+  }
+}
